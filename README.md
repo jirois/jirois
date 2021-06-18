@@ -8,7 +8,7 @@ I'm Omas Ajiri
 
 - 👯 I’m looking to collaborate on projects
 
-- 🤔 I’m looking for help with js codes refactoring, android development projects
+- 🤔 I’m looking for help with best ways to learn swift programming language and swift open source projects to contribute to
 
 - 💬 Ask me about JS|REACT|TS|EXPRESS|KOTLIN|ANDROID STUDIO
 
