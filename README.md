@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Omas Ajiri
+
 - 🔭 I’m currently working on personal projects from home. But during the weekends I go swimming with friends, away from the codes😄
 
 - 🌱 I’m currently learning swift
