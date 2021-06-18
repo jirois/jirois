@@ -17,3 +17,12 @@ I'm Omas Ajiri
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact: Love swimming and reading
+
+
+
+
+
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/jirois/count.svg" />
+</p>
