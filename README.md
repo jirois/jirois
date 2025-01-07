@@ -12,7 +12,7 @@ I'm Omas Ajiri
 
 - 💬 Ask me about JS|REACT|TS|EXPRESS|KOTLIN|ANDROID STUDIO
 
-- 📫 How to reach me: email: omasajiri@gmail.com
+- 📫 How to reach me: email: jicintech@gmail.com
 
 - 😄 Pronouns: he/him
 
