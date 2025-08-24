@@ -10,7 +10,7 @@ I'm Omas Ajiri
 
 - 🤔 I’m looking for help with best ways to learn swift programming language and swift open source projects to contribute to
 
-- 💬 Ask me about JS|REACT|TS|EXPRESS|KOTLIN|ANDROID STUDIO
+- 💬 Ask me about JS|REACT|TS|EXPRESS|KOTLIN|ANDROID STUDIO|FLUTTER
 
 - 📫 How to reach me: email: jicintech@gmail.com
 
