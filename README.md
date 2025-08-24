@@ -1,22 +1,28 @@
-### Hi there 👋
+# 👋 Hi, I’m Omanudhowho Ajiri  
 
-I'm Omas Ajiri
+💻 **Full Stack JavaScript, AI & Mobile Developer**  
+5+ years building **scalable web and mobile applications** with **MERN, Flutter & Firebase**, and integrating **AI systems**.  
 
-- 🔭 I’m currently working on personal projects from home. But during the weekends I go swimming with friends, away from the codes😄
+---
 
-- 🌱 I’m currently learning swift
+## 🔧 Tech Stack  
+- **Web:** MongoDB, Express.js, React, Node.js, Next.js, Tailwind CSS  
+- **Mobile:** Flutter, Firebase (Auth, Firestore, Analytics)  
+- **AI & Cloud:** Azure AI (Certified), OpenAI API, AWS, Vercel, Heroku  
 
-- 👯 I’m looking to collaborate on projects
+---
 
-- 🤔 I’m looking for help with best ways to learn swift programming language and swift open source projects to contribute to
+## 📂 Projects  
+- 🌍 **HIV Self-Test Reporter App** – Flutter + Firebase (offline-first, analytics)  
+- 🧠 **AI Resume Analyzer** – RAG pipeline for job matching  
+- 📊 **Real-Time Dashboard** – MERN + live API integrations  
 
-- 💬 Ask me about JS|REACT|TS|EXPRESS|KOTLIN|ANDROID STUDIO|FLUTTER
+---
 
-- 📫 How to reach me: email: jicintech@gmail.com
-
-- 😄 Pronouns: he/him
-
-- ⚡ Fun fact: Love swimming and reading
+## 📫 Connect  
+- 📧 Email: **jicintech@gmail.com**  
+- 💼 [LinkedIn](#)  
+- 💻 [Portfolio](#)  
 
 
 
